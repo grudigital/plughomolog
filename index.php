@@ -23,13 +23,28 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="img/banner.png" class="d-block w-100" alt="img/banner.png">
+        <img src="img/banner1.png" class="d-block w-100" alt="img/banner.png">
+        <div class="carousel-caption">
+          <h3>Puxamos pelo POWER da sua marca.</h3>
+          <p>PWU</p>
+          <button type="button" class="btn btn-outline-info">Saiba mais</button>
+        </div>
       </div>
       <div class="carousel-item">
-        <img src="img/banner.png" class="d-block w-100" alt="img/banner.png">
+        <img src="img/banner1.png" class="d-block w-100" alt="img/banner.png">
+        <div class="carousel-caption">
+          <h3>Puxamos pelo POWER da sua marca.</h3>
+          <p>PWU</p>
+          <button type="button" class="btn btn-outline-info">Saiba mais</button>
+        </div>
       </div>
       <div class="carousel-item">
-        <img src="img/banner.png" class="d-block w-100" alt="img/banner.png">
+        <img src="img/banner1.png" class="d-block w-100" alt="img/banner.png">
+        <div class="carousel-caption">
+          <h3>Puxamos pelo POWER da sua marca.</h3>
+          <p>PWU</p>
+          <button type="button" class="btn btn-outline-info">Saiba mais</button>
+        </div>
       </div>
     </div>
     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -46,7 +61,7 @@
     <a class="navbar-brand ml-5" href="#">
       <img src="img/logo.png" height="30px" alt="">
     </a>
-    
+
     <div class="collapse navbar-collapse justify-content-end mr-5" id="navbarSupportedContent">
       <ul class="navbar-nav text-right  navbar-right link-nav">
         <li class="nav-item active">
@@ -64,6 +79,8 @@
       </ul>
     </div>
   </nav>
+
+
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
