@@ -9,11 +9,45 @@ body{
     max-height: 900px;
 }
 
-/*Home blog*/
+.bloco-home-blog{
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.blog .carousel-indicators {
+    left: 0;
+    top: auto;
+    bottom: -70px;
+}
+.bloco-blog-home-informacoes-texto{
+    font-weight: 500;
+    float: right;
+}
+.bloco-blog-frase-topo{
+    margin-top: 15px;
+    float: right;
+}
+.bloco-carrossel{
+    margin-top: 30px;
+}
 
-/*Home blog*/
+.botao-ver-todos-posts{
+    background-color: #fff;
+    border-color: #00dbff;
+    color: #3f5fa8;
+}
 
-/*Home contato*/
+.blog .carousel-indicators li {
+    background: #00dbff;
+    border-radius: 50%;
+    width: 25px;
+    height: 1px;
+
+}
+
+.blog .carousel-indicators .active {
+    background: #bbb;
+}
 .bloco-contato-home{
     border-top: 10px solid #00dbff;
     padding-top: 100px;

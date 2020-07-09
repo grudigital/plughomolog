@@ -72,7 +72,89 @@
     </div>
 </nav>
 
-
+<section class="bloco-home-blog" >
+    <div class="container">
+        <div class="row">
+            <div class="col-7">
+                <span class="bloco-contato-home-contato">Blog</span><span class="bloco-contato-home-contato-ponto">.</span>
+            </div>
+            <div class="col-5 bloco-blog-frase-topo">
+                <div class="bloco-blog-home-informacoes-texto">Fique por dentro das novidades dentro da <span class="bloco-contato-home-azul">Plug.<span></div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row blog">
+            <div class="col-md-12 bloco-carrossel">
+                <div id="blogCarousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#blogCarousel" data-slide-to="1"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                                <div class="col-md-3">
+                                    <a href="#">
+                                        <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row justify-content-md-center rodape-copy">
+            <div class="col col-lg-2"></div>
+            <div class="col-md-auto">
+                <button class="btn btn-outline-primary rounded-pill botao-ver-todos-posts" type="button">veja todos os posts</button>
+            </div>
+            <div class="col col-lg-2"></div>
+        </div>
+    </div>
+</section>
 
 
 <section class="bloco-contato-home">
