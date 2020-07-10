@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
+
     <title>Plug with us</title>
 </head>
 <body>
@@ -71,6 +72,110 @@
         </ul>
     </div>
 </nav>
+
+<section class="bloco-home-testemunhos">
+    <div class="container">
+        <div class="row">
+            <div class="col-7">
+                <span class="bloco-contato-home-contato">Clientes</span><span class="bloco-contato-home-contato-ponto">.</span>
+            </div>
+            <div class="col-5 bloco-blog-frase-topo">
+                <div class="bloco-blog-home-informacoes-texto">Algumas marcas que já passaram pela <span class="bloco-contato-home-azul">Plug</span> e que confiam em nós.</div>
+            </div>
+        </div>
+        <div class="bloco-clientes-linha">
+        <div class="row">
+            <div class="col clientes-item"><img src="img/cliente1.png"></div>
+            <div class="col clientes-item"><img src="img/cliente2.png"></div>
+            <div class="col clientes-item"><img src="img/cliente3.png"></div>
+            <div class="col clientes-item"><img src="img/cliente4.png"></div>
+        </div>
+        </div>
+        <div class="bloco-clientes-linha">
+            <div class="row">
+                <div class="col clientes-item"><img src="img/cliente2.png"></div>
+                <div class="col clientes-item"><img src="img/cliente3.png"></div>
+                <div class="col clientes-item"><img src="img/cliente4.png"></div>
+                <div class="col clientes-item"><img src="img/cliente1.png"></div>
+            </div>
+        </div>
+    </div>
+
+</section>
+
+<section class="bloco-home-testemunhos">
+    <div class="container">
+        <div class="row">
+            <div class="col-7">
+                <span class="bloco-contato-home-contato">Testemunhos</span><span class="bloco-contato-home-contato-ponto">.</span>
+            </div>
+            <div class="col-5 bloco-blog-frase-topo">
+                <div class="bloco-blog-home-informacoes-texto">O que dizem os clientes da <span class="bloco-contato-home-azul">Plug.<span></div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div id="MiCarousel" class="carousel slide" data-ride="carousel">
+                    <ol class="carousel-indicators">
+                        <li data-target="#MiCarousel" data-slide-to="0" class="carousel-pagination active"></li>
+                        <li data-target="#MiCarousel" data-slide-to="1" class="carousel-pagination"></li>
+                        <li data-target="#MiCarousel" data-slide-to="2" class="carousel-pagination"></li>
+                    </ol>
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="row">
+                                <div class="col-md-6 div-l">
+                                    <div class="carousel-img" style="background-image: url(img/testemunho.png)">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 div-r">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A tenetur officiis voluptatem vel blanditiis. Nam enim quidem debitis aliquid maxime perferendis repudiandae similique, explicabo, quam minus tenetur cupiditate maiores ea.</p>
+                                    <p class="testemunho-nomesobrenome">Nome Sobrenome</p>
+                                    <p class="testemunho-cargo">Cargo</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-6 div-l">
+                                    <div class="carousel-img" style="background-image: url(img/testemunho.png);">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 div-r">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A tenetur officiis voluptatem vel blanditiis. Nam enim quidem debitis aliquid maxime perferendis repudiandae similique, explicabo, quam minus tenetur cupiditate maiores ea.</p>
+                                    <p class="testemunho-nomesobrenome">Nome Sobrenome</p>
+                                    <p class="testemunho-cargo">Cargo</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="row">
+                                <div class="col-md-6 div-l">
+                                    <div class="carousel-img" style="background-image: url(img/testemunho.png);">
+                                    </div>
+                                </div>
+                                <div class="col-md-6 div-r">
+                                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. A tenetur officiis voluptatem vel blanditiis. Nam enim quidem debitis aliquid maxime perferendis repudiandae similique, explicabo, quam minus tenetur cupiditate maiores ea.</p>
+                                    <p class="testemunho-nomesobrenome">Nome Sobrenome</p>
+                                    <p class="testemunho-cargo">Cargo</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <a class="carousel-control-prev carousel-controls" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next carousel-controls" href="#carouselExampleIndicators" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>
 
 <section class="bloco-home-blog" >
     <div class="container">

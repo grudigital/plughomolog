@@ -66,6 +66,9 @@ body{
     font-weight: 900;
     color: #00dbff;
 }
+.carousel-item img{
+    border-radius: 10px;
+}
 .bloco-contato-home-azul{
     color: #00dbff;
     text-transform: uppercase;
@@ -77,6 +80,10 @@ body{
     font-weight: bold;
     margin-top: 30px;
     padding-bottom: 20px;
+}
+.bloco-home-testemunhos{
+    padding-top:100px;
+    color: #fff;
 }
 .fundo-escuro-textarea{
     background-color: #333;
@@ -145,3 +152,50 @@ body{
     color: #09a0b9;
 }
 /*Linha final do rodape*/
+
+
+/*Carrossel testemunhos*/
+#MiCarousel{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+.carousel-img{
+    background-color: #000;
+    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    float: right;
+    z-index: 2;
+    opacity: 0.8;
+    margin-right:100px;
+    border-radius:10px;
+}
+
+.div-r{
+    padding: 40px;
+    margin-left: -100px;
+}
+.testemunho-nomesobrenome{
+    font-weight: bold;
+    color: #00dbff;
+}
+.testemunho-cargo{
+    margin-top: -15px;
+    text-transform: uppercase;
+}
+/*Carrossel testemunhos*/
+
+.clientes-item{
+    float: right;
+}
+.clientes-item img{
+    width: 100px;
+}
+.bloco-clientes-linha{
+    margin-top: 80px;
+    margin-left:100px
+}
