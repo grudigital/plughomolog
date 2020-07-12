@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-
+    <link rel="icon" href="img/favicon.png" sizes="32x32" />
     <title>Plug with us</title>
 </head>
 <body>
@@ -72,6 +72,138 @@
         </ul>
     </div>
 </nav>
+
+<div class="bloco-nossa-especialidade">
+    <div class="container">
+        <div class="row">
+            <div class="col-6">
+                <span class="bloco-home-especialidade-titulo">Nossa</span><p class="bloco-contato-home-especialidade">Especialidade<span class="bloco-contato-home-contato-ponto">.</span></p>
+            </div>
+            <div class="col-6 bloco-blog-frase-topo">
+                <div class="bloco-home-especialidade-texto">Com o compromisso de tornar os seus clientes ainda mais competitivos no mercado em que atuam, a <span class="bloco-contato-home-azul">Plug</span> tem disponível um extenso portfólio de serviços de consultoria e desenvolvimento.</div>
+            </div>
+        </div>
+        <div class="bloco-home-especialidades-itens">
+            <div class="row">
+                <div class="col item-especialidade"><img src="img/especialidade-estrategia.png"></div>
+                <div class="col item-especialidade"><img src="img/especialidade-branding.png"></div>
+                <div class="col item-especialidade"><img src="img/especialidade-design.png"></div>
+                <div class="col item-especialidade"><img src="img/especialidade-web.png"></div>
+            </div>
+        </div>
+    </div>
+        <div class="row justify-content-md-center botao-ver-mais-especialidades">
+            <div class="col col-lg-2"></div>
+            <div class="col-md-auto">
+                <button class="btn btn-outline-primary rounded-pill botao-ver-mais-especialidades-item" type="button">saiba mais</button>
+        </div>
+            <div class="col col-lg-2"></div>
+        </div>
+    </div>
+
+
+<div class="bloco-home-quem-somos">
+        <div class="row">
+            <div class="col-4">
+                <span class="bloco-home-especialidade-titulo">Quem</span><p class="bloco-contato-home-especialidade">Somos <span class="bloco-contato-home-contato-ponto">?</span></p>
+                <p>Entre as mais recentes e inovadoras agências de desenvolvimento e marketing, a <span class="titulo-azul">PLUG</span> traz cosigo todo um <span class="titulo-negrito">background de gestão de produto.</span></p>
+                <p>Situada no berço de Portugal, Guimarães, nossa proposta é ser uma agência com capacidade para <span class="titulo-negrito">abraçar, desenvolver, e concretizar estratégias</span> de sucesso em todos os canais digitais.</p>
+                <div class="quem-somos-tomadinha"><img src="img/tomada.png"></div>
+            </div>
+            <div class="col-2"></div>
+            <div class="col-6 quem-somos-imagem">
+                <div class="quem-somos-imagem-texto"><p><span class="titulo-azul2">"</span>Ligamos a <span class="titulo-azul2">criatividade</span> à <span class="titulo-azul2">performance</span> com cargas máximas nos <span class="titulo-azul2">resultados</span>.<span class="titulo-azul2">"</span></p></div>
+            </div>
+        </div>
+</div>
+
+<section class="bloco-portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-7">
+                <span class="bloco-contato-home-contato">Portfolio</span><span class="bloco-contato-home-contato-ponto">.</span>
+            </div>
+            <div class="col-5 bloco-blog-frase-topo">
+                <div class="bloco-blog-home-informacoes-texto">Confira alguns projetos que a <span class="bloco-contato-home-azul">Plug</span> desenvolveu colocando carga máxima nos resultados.</div>
+            </div>
+        </div>
+
+        <!-- Carousel -->
+        <div class="container">
+            <div class="row blog">
+                <div class="col-md-12 bloco-carrossel">
+                    <div id="blogCarousel" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <li data-target="#blogCarousel" data-slide-to="0" class="active"></li>
+                            <li data-target="#blogCarousel" data-slide-to="1"></li>
+                        </ol>
+                        <div class="carousel-inner">
+                            <div class="carousel-item active">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="carousel-item">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <a href="#">
+                                            <img src="img/publicacao-imagem.png" alt="Image" style="max-width:100%;">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Carousel -->
+
+        <div class="row justify-content-md-center botao-ver-mais-especialidades">
+            <div class="col col-lg-2"></div>
+            <div class="col-md-auto">
+                <button class="btn btn-outline-primary rounded-pill botao-ver-mais-especialidades-item" type="button">veja mais</button>
+            </div>
+            <div class="col col-lg-2"></div>
+        </div>
+    </div>
+    </div>
+</section>
+
 
 <section class="bloco-home-testemunhos">
     <div class="container">
@@ -349,7 +481,7 @@
 
 <script src="js/jquery-3.5.1.slim.js"></script>
 <script src="js/popper.js"></script>
-<script src="js/style.js"></script>
+<script src="js/scripts.js"></script>
 <script src="js/bootstrap.js"></script>
 </body>
 </html>
